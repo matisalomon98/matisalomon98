@@ -8,7 +8,7 @@
 
 I am **Matias Salomon**, a passionate Data Analyst currently training at **Henry**, where I am deepening my skills in **Python**, **SQL Server**, **Power BI**, and **Excel** to transform data into actionable insights and strategic decisions.  
 
-I am also pursuing a **Bioengineering** degree at the **University of Mendoza** and previously studied **Civil Engineering** at the **National University of Cuyo**. My academic background has always been focused on providing efficient solutions to societal problems—whether in construction, healthcare, or business performance through data-driven strategies.  
+I  also studied a **Bioengineering** degree at the **University of Mendoza** and previously studied **Civil Engineering** at the **National University of Cuyo**. My academic background has always been focused on providing efficient solutions to societal problems—whether in construction, healthcare, or business performance through data-driven strategies.  
 
 ---
 
